@@ -1,6 +1,6 @@
-token=NDcyMTYwOTkyMDU1Mzk0MzE0.Do7GFA.2lGn6geYDrq9kfHNx0L0Fh5__6c
+token=NTA1MDAwODMzMjM1MDI1OTIw.DrNOWw.uK2tZcHnN4Hf3AwLqGe4QUKUPKw
 owner=474200581163057153
-prefix=6
-game=Type 6help
+prefix=2
+game=Type 2help | 『乙ϗ乃』
 stayinchannel=true
 songinstatus=true
